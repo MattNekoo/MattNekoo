@@ -7,18 +7,11 @@ Experiência na área de suporte, web design e banco de dados, mais 4 anos de at
 
 <p align="left">
   🦄 Linguagens: <strong> 
-• MySQL
-• SQL ORACLE PL/SQL
-• Active Directory/LDAP, Admin Center do Microsoft 365, Azure AD Connect, Centro de administração do Exchange
-• Office 365
-• Windows 10
-• HTML5
-• CSS3
-• PHP</strong>
+MySQL, SQL ORACLE, PL/SQL, HTML5, CSS3, PHP</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Active Directory/LDAP, Admin Center do Microsoft 365, Azure AD Connect, Centro de administração do Exchange, Office 365, Windows 10, Jira e Confluence, SEI, SIP, INCON, Malote Digital.</strong>
 </p>
 
 <p align="left">
