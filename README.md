@@ -1,13 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Formado em Sistema de Informações. Atuando como Analista de Suporte 2º Nível Sistemas e Acessos no Supremo Tribunal Federal.
+  Formado em Sistema de Informações. Atuando como Desenvolvedor Pleno - PHP e React - no contrato da Presidência da República (Basis).
 Experiência na área de suporte, web design e banco de dados, mais 4 anos de atuação como Suporte Técnico N1 no STF e TST.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> 
+  🦄 Linguagens: <strong>PHP e Javascript (React e Vue) 
 MySQL, SQL ORACLE, PL/SQL, HTML5, CSS3, PHP</strong>
+
+</p>
+Banco de dados:
+<p align="left">Desenvolvimento de Querys: <strong>Oracle, MySQL, SQL Server, TSQL, PostegreSQL</strong>
+Frameworks: <strong>Laravel e React</strong></br>
+Versionador: <strong>Git e Gitlab</strong></br>
+Ambiente com esteira DevOps com Jenkins, Ranch e Sonar.</br> 
+Método de gestão ágil com Scrum.
 </p>
 
 <p align="left">
