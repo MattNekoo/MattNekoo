@@ -6,7 +6,7 @@ Experiência na área de suporte, web design e banco de dados, mais 4 anos de at
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP e Javascript (React e Vue) 
+  🦄 Linguagens: <strong>PHP e Javascript (Angular, React e Vue) 
 MySQL, SQL ORACLE, PL/SQL, HTML5, CSS3, PHP</strong>
 
 </p>
