@@ -27,7 +27,6 @@ Método de gestão ágil com Scrum.
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?&style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![ReactNative](https://img.shields.io/badge/ReactNative%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![typecript](https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white)
